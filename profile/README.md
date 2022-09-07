@@ -8,4 +8,5 @@
 
 ---
 
-Contact: [click here](mailto:organizationdestiny@gmail.com)
+Contact Email : [click here](mailto:organizationdestiny@gmail.com)
+Contact Discord : [click here](https://discord.gg/VbgTRMnCkM)
