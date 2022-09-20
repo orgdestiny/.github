@@ -8,4 +8,4 @@
 
 ---
 
-Contact Email : [click here](mailto:organizationdestiny@gmail.com)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContact Discord : [click here](https://discord.gg/VbgTRMnCkM)
+Contact Email : [click here](mailto:orgdestiny@hotmail.com)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContact Discord : [click here](https://discord.gg/VbgTRMnCkM)
