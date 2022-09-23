@@ -25,4 +25,9 @@ Our goal is to integrate all of our future projects into the platform, from our 
 
 ---
 
-Contact Email : [click here](mailto:orgdestiny@hotmail.com)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContact Discord : [click here](https://discord.gg/VbgTRMnCkM)
+Contact Email : [click here](mailto:orgdestiny@hotmail.com)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Contact Discord : [click here](https://discord.gg/VbgTRMnCkM)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
+</div>
