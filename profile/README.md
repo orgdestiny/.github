@@ -9,19 +9,22 @@ We devote special attention to the ethical and moral formation of the members, w
 ### 📡 Connections
 Our goal is to integrate all of our future projects into the platform, from our Development team and future contributors. Destiny expands its connections everywhere, and here, we will be encouraging creativity, creation. The beginning of a new story! A new project. Where it will be open for any kind of doubts, suggestions and participation. With the main goal of bringing knowledge and new adventures; and with that, experience. Destiny becomes a Hub, with a control... We are a *GitHub*!
 
-### 📝 Contributions and Projects
-<a href="https://github.com/orgdestiny/orgdestiny.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=orgdestiny.github.io" />
-</a>
-<a href="https://github.com/orgdestiny/destinymc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=destinymc" />
-</a>
-<br>
-<br>
-<a href="https://github.com/orgdestiny/Anti-Forense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=Anti-Forense" />
-</a>
-
+<details> 
+	<summary>📝 Contributions and Projects</summary>
+	<ul>
+    <a href="https://github.com/orgdestiny/orgdestiny.github.io">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=orgdestiny.github.io" />
+    </a>
+    <a href="https://github.com/orgdestiny/destinymc">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=destinymc" />
+    </a>
+    <br>
+    <br>
+    <a href="https://github.com/orgdestiny/Anti-Forense">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orgdestiny&repo=Anti-Forense" />
+    </a>
+	</ul>
+</details>
 
 ---
 
