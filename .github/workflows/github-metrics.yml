@@ -59,6 +59,4 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_thanks: argondc, KingTeox, MardokStain
-          plugin_repositories: yes
-          plugin_repositories_order: pinned, starred, random
           plugin_traffic: yes
