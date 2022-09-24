@@ -25,8 +25,7 @@ Our goal is to integrate all of our future projects into the platform, from our 
 ---
 
 <div align="center">
-    <a href="https://discord.com/invite/VbgTRMnCkM"><img src="https://skillicons.dev/icons?i=discord" /></a>
-    <a href="https://twitter.com/org__destiny"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-    <a href="https://orgdestiny.me"><img src="https://skillicons.dev/icons?i=html" /></a>
-    <a href="mailto:contact@orgdestiny.me"><img src="https://skillicons.dev/icons?i=ros" /></a>
+    <a href="https://discord.com/invite/VbgTRMnCkM"><img src="https://github.com/orgdestiny/.github/blob/main/images/icons8-discord.svg" width="53px" /></a>
+    <a href="https://twitter.com/org__destiny"><img src="https://github.com/orgdestiny/.github/blob/main/images/twitter-icon.svg" width="50px"  /></a>
+    <a href="https://orgdestiny.me"><img src="https://raw.githubusercontent.com/orgdestiny/.github/a0e7cf36dd948a24ef9c2a610a5f4c2dab0f69c6/images/globe.svg" width="50px" /></a>
 </div>
