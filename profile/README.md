@@ -12,7 +12,7 @@ According to the guide, we will also be providing our key technology fields and 
 #### `1.` Acess [orgdestiny.me](https://orgdestiny.me/) to stay in touch with our communications and updates.
 #### `2.` Follow Destiny on all networks to be joining and deepening our community.
 #### `3.` Join the team! Be a part of this story and integrate yourself into Destiny from the [Jobs](https://orgdestiny.me/login) page.
-#### `4.` If in doubt, please [contact](mailto:contact@orgdestiny.me) Destiny. For professional relations, just [click here](booking@orgdestiny.me).
+#### `4.` If in doubt, please [contact](mailto:contact@orgdestiny.me) Destiny. For professional relations, just [click here](mailto:booking@orgdestiny.me).
 
 <br />
 <br />
